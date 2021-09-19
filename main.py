@@ -1,4 +1,5 @@
 import csv_islemleri
+import pdf_islemleri
 
 # csv_islemleri.csv_oku()
 
@@ -10,4 +11,11 @@ import csv_islemleri
 
 # csv_islemleri.csv_yazma()
 
-csv_islemleri.csv_kopyala()
+# csv_islemleri.csv_kopyala()
+
+# pdf_islemleri.pdf_ozellikleri_okuma()
+
+# pdf_islemleri.pdf_sayfa_oku(15)
+
+# pdf_islemleri.pdf_sayfalar_oku(62, 69)
+
